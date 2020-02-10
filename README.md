@@ -9,4 +9,4 @@ Then simply execute the script, and it should give you a popup to set your scrol
 Note: lower numbers are better. It gets ridiculous after about 10 or so.
 
 
-Full credit to Dull, posted here: https://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed
+Full credit to Duli, posted here: https://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed
